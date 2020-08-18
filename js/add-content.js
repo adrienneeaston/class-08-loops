@@ -39,3 +39,4 @@ function getPreference() {
 getName();
 getGreeting();
 getPreference();
+
